@@ -1,0 +1,12 @@
+D:\Real files\Projeckts\VisualStudio\forMoney\wfZadanie_1\wfZadanie_1\bin\Debug\wfZadanie_1.exe.config
+D:\Real files\Projeckts\VisualStudio\forMoney\wfZadanie_1\wfZadanie_1\bin\Debug\wfZadanie_1.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\wfZadanie_1\wfZadanie_1\bin\Debug\wfZadanie_1.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\wfZadanie_1\wfZadanie_1\obj\Debug\wfZadanie_1.csprojAssemblyReference.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\wfZadanie_1\wfZadanie_1\obj\Debug\wfZadanie_1.Form1.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\wfZadanie_1\wfZadanie_1\obj\Debug\wfZadanie_1.Properties.Resources.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\wfZadanie_1\wfZadanie_1\obj\Debug\wfZadanie_1.zad1.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\wfZadanie_1\wfZadanie_1\obj\Debug\wfZadanie_1.zad2.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\wfZadanie_1\wfZadanie_1\obj\Debug\wfZadanie_1.csproj.GenerateResource.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\wfZadanie_1\wfZadanie_1\obj\Debug\wfZadanie_1.csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\wfZadanie_1\wfZadanie_1\obj\Debug\wfZadanie_1.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\wfZadanie_1\wfZadanie_1\obj\Debug\wfZadanie_1.pdb
